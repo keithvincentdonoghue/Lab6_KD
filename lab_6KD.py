@@ -5,7 +5,7 @@
 import numpy as np 
 
 array_1 = np.array([1,2,3,4,5,]) 
-array_2 = np.array([6,7,8,9,10]) 
+array_3 = np.array([6,7,8,9,10]) 
 
 def mean_square_error(array_1,array_2):
     
